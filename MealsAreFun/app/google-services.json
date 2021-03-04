@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "697766327035",
+    "firebase_url": "https://mealsarefun.firebaseio.com",
+    "project_id": "mealsarefun",
+    "storage_bucket": "mealsarefun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697766327035:android:86f9d8c1705e3aaf2d765e",
+        "android_client_info": {
+          "package_name": "com.marcdelacruz.mealsarefun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697766327035-mm20atl9hcjj3tcfj2pjg59db4iim2i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh5ZYZ4EcpZ8DuZdM6SO79afavV0xKYuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697766327035-mm20atl9hcjj3tcfj2pjg59db4iim2i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bienvenido</string>
+    <string name="welcome">"MDLC le da unbienvenido a UVU "</string>
+    <string name="mascot_text">"Un animal que da mucho miedo "</string>
+</resources>
